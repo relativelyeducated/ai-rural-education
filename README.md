@@ -1,3 +1,7 @@
+![AI for Rural Communities](cool.png)
+
+# AI for Rural Communities: Education & Opportunity Program
+
 # AI for Rural Communities: Education & Opportunity Program
 
 **Comprehensive curriculum bringing AI education to rural students through agriculture, FFA, and real-world applications.**
