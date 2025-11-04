@@ -2,8 +2,6 @@
 
 # AI for Rural Communities: Education & Opportunity Program
 
-# AI for Rural Communities: Education & Opportunity Program
-
 **Comprehensive curriculum bringing AI education to rural students through agriculture, FFA, and real-world applications.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
