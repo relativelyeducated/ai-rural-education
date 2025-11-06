@@ -255,7 +255,7 @@ This curriculum is released under the MIT License, making it free for educationa
 When using this curriculum, please credit:
 > "AI for Rural Communities: Education & Opportunity Program"  
 > Originally developed for rural agricultural education  
-> Available at: [your-github-repo-url]
+> Available at: [https://github.com/relativelyeducated/ai-rural-education]
 
 ---
 
